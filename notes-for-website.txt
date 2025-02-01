@@ -1,0 +1,3 @@
+1- change title to be left and right of logo
+2- put circle and lights around the logo
+3- button make them rounder background white and numbers and logos of phone full black and add light white around edges
